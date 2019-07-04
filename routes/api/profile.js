@@ -182,8 +182,8 @@ router.delete("/", auth, async (req, res) => {
   }
 });
 
-// @route   PUT api/profile/eduac
-// @desc    Add profile eduac
+// @route   PUT api/profile/educ
+// @desc    Add profile educ
 // @access  Private
 
 router.put(
